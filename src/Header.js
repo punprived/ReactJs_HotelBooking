@@ -13,7 +13,6 @@ const Header = () => {
             </button>
             <a class="navbar-brand" href="index.php"><img src="images/logo.png"  alt="holiday crown" /></a>
             </div>
-
             
             <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
             
